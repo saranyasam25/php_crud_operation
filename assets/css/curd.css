@@ -1,0 +1,22 @@
+.title-curd, .displaymessage{
+    background-color: rgb(114, 134, 211);
+    font-family: 'Questrial', sans-serif;
+}
+
+span.input-group-text.search-icon,
+.new-user-btn,
+.user-icon {
+    background: rgb(142, 167, 233) !important;
+}
+
+.table-data {
+    background-color: rgb(229, 224, 255);
+    border-bottom-color: none;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.error{
+    color: red;
+}
